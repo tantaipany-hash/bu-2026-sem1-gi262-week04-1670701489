@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Assignment : MonoBehaviour
+public class Assignment1 : MonoBehaviour
 {
     [Header("AS01 Input")]
     public string[] as01Words;
