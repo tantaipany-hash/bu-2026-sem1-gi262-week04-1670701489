@@ -7,7 +7,7 @@ public class Lecture : MonoBehaviour
     void Start()
     {
         // เอา comment ออกเพื่อรันทดสอบทีละเมธอด
-        // LCT01_SyntaxLinkedList();
+        //LCT01_SyntaxLinkedList();
         // LCT02_SyntaxHashTable();
         // LCT03_SyntaxDictionary();
     }
