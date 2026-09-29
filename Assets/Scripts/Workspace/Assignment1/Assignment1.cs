@@ -9,7 +9,7 @@ public class Assignment1 : MonoBehaviour
     void Start()
     {
         // เอา comment ออกเพื่อรันทดสอบ
-        // AS01_CountWords();
+        AS01_CountWords();
     }
 
     public void AS01_CountWords()
